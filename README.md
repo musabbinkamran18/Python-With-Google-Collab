@@ -1,20 +1,21 @@
-Agentic AI - Python Course (Colab Notebooks)
-python_colab
+# Agentic AI - Python Course (Colab Notebooks)
 
-Master Python effortlessly with our interactive Google Colab-based course designed for beginners and aspiring AI engineers. Learn step-by-step with hands-on coding exercises, real-time execution, and AI-assisted guidance. Our structured lessons make complex concepts easy to understand and apply. Build a strong Python foundation while exploring practical applications in AI and automation. Accelerate your learning with engaging, error-free, and efficient coding practices!
+![python_colab](py_colab.webp)
 
-Python official documentation
+Master Python effortlessly with our interactive **Google Colab-based course** designed for **beginners and aspiring AI engineers**. Learn **step-by-step** with hands-on coding exercises, real-time execution, and AI-assisted guidance. Our structured lessons make complex concepts **easy to understand and apply**. Build a **strong Python foundation** while exploring practical applications in **AI and automation**. Accelerate your learning with **engaging, error-free, and efficient coding practices**!
 
-Python Cheat Sheet for Beginners
+**[Python official documentation](https://docs.python.org/3/)**
 
-Type hints cheat sheet
+**[Python Cheat Sheet for Beginners](https://www.datacamp.com/cheat-sheet/getting-started-with-python-cheat-sheet)**
 
-Python CheatSheet (2025)
+**[Type hints cheat sheet](https://mypy.readthedocs.io/en/stable/cheat_sheet_py3.html)**
 
-W3 Schools Python Tutorial
+**[Python CheatSheet (2025)](https://www.geeksforgeeks.org/python-cheat-sheet/)**
 
-AI Python for Beginners Course by Andrew Ng
+**[W3 Schools Python Tutorial](https://www.w3schools.com/python/)**
 
-Watch Python QuickStart for People Learning AI (Mini-Course)
+**[AI Python for Beginners Course by Andrew Ng](https://www.deeplearning.ai/short-courses/ai-python-for-beginners/)**
 
-Python Interview Questions and Answers
+**[Watch Python QuickStart for People Learning AI (Mini-Course)](https://www.youtube.com/watch?v=pNg2DJ4spXg)**
+
+**[Python Interview Questions and Answers](https://www.geeksforgeeks.org/python-interview-questions/)**
